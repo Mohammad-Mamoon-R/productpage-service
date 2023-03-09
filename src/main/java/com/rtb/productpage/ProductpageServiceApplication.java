@@ -13,6 +13,7 @@ public class ProductpageServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductpageServiceApplication.class, args);
+		System.out.println("Main method");
 	}
 
 	@Bean
